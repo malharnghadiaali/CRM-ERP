@@ -1,0 +1,9 @@
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.exe.config
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.exe
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.pdb
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.csprojResolveAssemblyReference.cache
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.Form1.resources
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.Properties.Resources.resources
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.csproj.GenerateResource.Cache
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.exe
+c:\users\malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.pdb
