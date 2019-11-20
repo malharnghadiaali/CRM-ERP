@@ -104,5 +104,14 @@ namespace CRMERP
         {
 
         }
+
+        private void button10_Click_1(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Hide();
+            login l = new login();
+            l.Show();
+            
+        }
     }
 }
